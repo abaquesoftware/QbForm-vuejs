@@ -1,2 +1,6 @@
-# QbForm-vuejs
-QbForm module to support vueJs environment
+----------------------------------
+Project requirements:
+----------------------------------
+
+sudo npm install -g @vue/cli
+npm install --save-dev webpack-env
